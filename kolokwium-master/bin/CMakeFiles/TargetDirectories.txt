@@ -1,0 +1,7 @@
+/home/jackie/Pulpit/kolokwium/bin/CMakeFiles/install.dir
+/home/jackie/Pulpit/kolokwium/bin/CMakeFiles/list_install_components.dir
+/home/jackie/Pulpit/kolokwium/bin/CMakeFiles/rebuild_cache.dir
+/home/jackie/Pulpit/kolokwium/bin/CMakeFiles/edit_cache.dir
+/home/jackie/Pulpit/kolokwium/bin/CMakeFiles/myProgram.dir
+/home/jackie/Pulpit/kolokwium/bin/CMakeFiles/install/strip.dir
+/home/jackie/Pulpit/kolokwium/bin/CMakeFiles/install/local.dir

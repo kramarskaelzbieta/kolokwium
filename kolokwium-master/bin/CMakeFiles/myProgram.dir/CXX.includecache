@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/address.h
+stdio.h
+-
+
+../include/employee.h
+
+/home/jackie/Pulpit/kolokwium/src/address.cpp
+string
+-
+
+/home/jackie/Pulpit/kolokwium/src/employee.cpp
+address.h
+/home/jackie/Pulpit/kolokwium/src/address.h
+
+/home/jackie/Pulpit/kolokwium/src/main.cpp
+employee.h
+/home/jackie/Pulpit/kolokwium/src/employee.h
+address.h
+/home/jackie/Pulpit/kolokwium/src/address.h
+
